@@ -1,5 +1,13 @@
 # WebBenchmark
 `WebBenchmark`是一款基于开源通讯组件`Beetlex`扩展的`Webapi`管理和性能测试工具，在传统工具中一般管理工具缺乏性能压测能力或有性能测试的缺少管理功能；`WebBenchmark`的设计目标是就管理和性能压测能力同时具备。
+## 运行
+``` csharp
+//windows
+WebBenchmarkApp.exe
+//linux
+sudo chmod 777 WebBenchmarkApp
+sudo ./WebBenchmarkApp
+```
 ## 演示地址
 http://webbenchmark.beetlex.io/
 ## 功能
