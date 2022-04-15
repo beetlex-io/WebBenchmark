@@ -9,7 +9,7 @@ sudo chmod 777 WebBenchmarkApp
 sudo ./WebBenchmarkApp
 ```
 ## 演示地址
-http://webapi.beetlex.io/
+https://beetlex-io.com/webbenchmark/
 ## 功能
 - 支持HTTP和HTTPS的服务测试
 - 暂只支持基础方法的GET,POST,PUT和DELETE
